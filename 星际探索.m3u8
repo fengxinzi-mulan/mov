@@ -3,14 +3,6 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:2.000000,
-https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200228/12894425mOoyAykNP2djOXwYFf-00001.ts
-#EXTINF:10.000000,
-https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200228/12894425mOoyAykNP2djOXwYFf-00002.ts
-#EXTINF:10.000000,
-https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200228/12894425mOoyAykNP2djOXwYFf-00003.ts
-#EXTINF:10.000000,
-https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200228/12894425mOoyAykNP2djOXwYFf-00004.ts
 #EXTINF:10.000000,
 https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200228/12894425mOoyAykNP2djOXwYFf-00005.ts
 #EXTINF:10.000000,
